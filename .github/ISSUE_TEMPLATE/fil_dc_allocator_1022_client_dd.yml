@@ -4,9 +4,6 @@ about: Due Diligence Form for clients who apply Datacap from allocator_1022
 title: "[FIL_DC_Allocator_1022_Client_DD]: <Project Name>"
 labels: ''
 assignees: joshua-ne
-
----
-
 body:
   - type: markdown
     attributes:
