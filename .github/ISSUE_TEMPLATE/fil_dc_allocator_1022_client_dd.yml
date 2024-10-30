@@ -1,8 +1,7 @@
----
 name: FIL_DC_Allocator_1022_Client_DD
-about: Due Diligence Form for clients who apply Datacap from allocator_1022
+description: Due Diligence Form for clients who apply Datacap from allocator_1022
 title: "[FIL_DC_Allocator_1022_Client_DD]: <Project Name>"
-labels: ''
+labels: []
 assignees: joshua-ne
 body:
   - type: markdown
